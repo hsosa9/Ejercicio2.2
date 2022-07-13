@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Ejercicio2.2</string>
+    <string name="txt_Post">POST</string>
+    <string name="txt_salvar">SALVAR</string>
+    <string name="txt_CON">Realize su consulta</string>
+    <string name="txt_id">Ingrese el id</string>
+</resources>
